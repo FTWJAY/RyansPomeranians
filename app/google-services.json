@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "188777858027",
+    "firebase_url": "https://ryans-pomeranians.firebaseio.com",
+    "project_id": "ryans-pomeranians",
+    "storage_bucket": "ryans-pomeranians.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:188777858027:android:b42b61ac3c97fcb2268fae",
+        "android_client_info": {
+          "package_name": "com.ubscomputers.ryanspomeranians"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "188777858027-dda76vp62f95a8du1s6bgn09fab7koqi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ubscomputers.ryanspomeranians",
+            "certificate_hash": "73fe44db70d4f6f08527ee063c5b1fa44e245539"
+          }
+        },
+        {
+          "client_id": "188777858027-9rc3qideqkppngtajn2vcjhf97mioskv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqfPtxBYRFjA8n1Ozs2kNxF_dm-zIwz50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "188777858027-9rc3qideqkppngtajn2vcjhf97mioskv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
